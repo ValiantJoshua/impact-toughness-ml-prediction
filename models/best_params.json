@@ -1,0 +1,24 @@
+{
+  "energy": {
+    "svr__C": "500",
+    "svr__epsilon": "0.1",
+    "svr__gamma": "0.01",
+    "svr__kernel": "rbf"
+  },
+  "shear": {
+    "svr__C": "100",
+    "svr__epsilon": "5.0",
+    "svr__gamma": "0.01",
+    "svr__kernel": "rbf"
+  },
+  "kfold10_r2_energy": 0.4015,
+  "kfold10_r2_shear": 0.1511,
+  "features": [
+    "Material_encoded",
+    "T_C",
+    "a_mm",
+    "b_mm",
+    "Luas_A_mm2",
+    "Rasio_ab"
+  ]
+}

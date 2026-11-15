@@ -1,0 +1,7 @@
+Feature,Feature_Label,Importance_Energy,Importance_Shear
+Material_encoded,Jenis Material,0.1576,0.0889
+T_C,Suhu (C),0.3281,0.2496
+a_mm,Lebar Takik a (mm),0.1355,0.1704
+b_mm,Tinggi b (mm),0.0521,0.1222
+Luas_A_mm2,Luas Penampang (mm2),0.2098,0.1508
+Rasio_ab,Rasio a/b,0.1169,0.2181

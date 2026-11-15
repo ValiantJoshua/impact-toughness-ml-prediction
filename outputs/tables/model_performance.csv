@@ -1,0 +1,13 @@
+Model,Target,RMSE,MAE,R2,Waktu (s)
+Linear Regression,E (Joule),40.33,29.92,0.2357,0.13
+Ridge Regression,E (Joule),37.92,28.09,0.3245,0.15
+Polynomial Regression (deg=2),E (Joule),49.53,31.4,-0.1526,0.17
+Random Forest,E (Joule),40.3,29.46,0.237,7.87
+SVR (RBF),E (Joule),32.81,25.44,0.4942,0.16
+Gradient Boosting,E (Joule),47.1,33.46,-0.0426,3.38
+Linear Regression,Shear Fracture (%),32.87,24.98,-0.2446,0.17
+Ridge Regression,Shear Fracture (%),29.69,24.03,-0.0155,0.16
+Polynomial Regression (deg=2),Shear Fracture (%),36.15,27.67,-0.5052,0.21
+Random Forest,Shear Fracture (%),29.95,24.84,-0.0332,8.01
+SVR (RBF),Shear Fracture (%),31.46,26.13,-0.1398,0.14
+Gradient Boosting,Shear Fracture (%),34.58,26.86,-0.3773,3.22

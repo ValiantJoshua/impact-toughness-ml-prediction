@@ -1,0 +1,4 @@
+Tahap,Model,Validasi,R2_Energi,RMSE_Energi,MAE_Energi,R2_Shear,RMSE_Shear
+Phase 2 — Default,SVR RBF default,KFold-10,0.4577,33.97,26.29,-0.154,31.65
+Phase 3 — Tuned,SVR RBF tuned,KFold-10,0.4015,35.69,26.28,0.1511,27.15
+Phase 4 — Full Train,SVR RBF tuned,Training Score,0.5651,30.42,20.98,0.2398,25.69
